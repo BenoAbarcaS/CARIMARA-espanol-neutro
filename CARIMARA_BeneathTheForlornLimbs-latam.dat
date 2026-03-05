@@ -1,0 +1,2100 @@
+{
+    "array": [
+        {
+            "key": "card_names_cabane",
+            "value": "Cabaña"
+        },
+        {
+            "key": "card_names_carimara",
+            "value": "Carimara"
+        },
+        {
+            "key": "card_names_chouette",
+            "value": "Lechuza"
+        },
+        {
+            "key": "card_names_cynorhodon",
+            "value": "Escaramujo"
+        },
+        {
+            "key": "card_names_keystone",
+            "value": "Símbolo extraño"
+        },
+        {
+            "key": "card_names_loirmort",
+            "value": "Lirón muerto"
+        },
+        {
+            "key": "card_names_outildejardin",
+            "value": "Herramienta de jardín"
+        },
+        {
+            "key": "card_names_partir",
+            "value": "Salir"
+        },
+        {
+            "key": "card_names_statuechouette",
+            "value": "Estatua de lechuza"
+        },
+        {
+            "key": "card_names_tombe",
+            "value": "Tumba"
+        },
+        {
+            "key": "card_names_tombeetrange",
+            "value": "Otra tumba"
+        },
+        {
+            "key": "card_names_fantome",
+            "value": "Forlore"
+        },
+        {
+            "key": "card_names_statue",
+            "value": "Estatua de madera"
+        },
+        {
+            "key": "card_names_loir",
+            "value": "Lirón"
+        },
+        {
+            "key": "card_names_troudouteux",
+            "value": "Hoyo dudoso"
+        },
+        {
+            "key": "card_names_clef",
+            "value": "Llave"
+        },
+        {
+            "key": "card_names_coffre",
+            "value": "Cofre"
+        },
+        {
+            "key": "card_names_hache",
+            "value": "Hacha"
+        },
+        {
+            "key": "card_names_lavande",
+            "value": "Lavanda"
+        },
+        {
+            "key": "card_names_poupees",
+            "value": "Muñeca"
+        },
+        {
+            "key": "card_names_vieilledame",
+            "value": "Anciana"
+        },
+        {
+            "key": "card_names_fullmoon",
+            "value": "Luna llena"
+        },
+        {
+            "key": "card_violette_cabane_0",
+            "value": "Esta vieja cabaña está en ruinas..."
+        },
+        {
+            "key": "card_violette_cabane_1",
+            "value": "Hace mucho tiempo que nadie pone los pies allí."
+        },
+        {
+            "key": "card_violette_cabane_2",
+            "value": "No veo qué te puede interesar allí."
+        },
+        {
+            "key": "card_violette_carimara_0",
+            "value": "¿Qué opino de ti?"
+        },
+        {
+            "key": "card_violette_carimara_1",
+            "value": "No pareces muy fuerte ni muy inteligente..."
+        },
+        {
+            "key": "card_violette_carimara_2",
+            "value": "Pero bueno..."
+        },
+        {
+            "key": "card_violette_carimara_3",
+            "value": "Eres el único por acá que quiere hacer este trabajo sucio..."
+        },
+        {
+            "key": "card_violette_carimara_4",
+            "value": "Entonces me contento contigo."
+        },
+        {
+            "key": "card_violette_chouette_0",
+            "value": "¡Oh!"
+        },
+        {
+            "key": "card_violette_chouette_1",
+            "value": "Has encontrado la lechuza."
+        },
+        {
+            "key": "card_violette_chouette_2",
+            "value": "A menudo se queda cerca de casa, creo que le caemos bien."
+        },
+        {
+            "key": "card_violette_chouette_3",
+            "value": "La llamamos Viola."
+        },
+        {
+            "key": "card_violette_chouette_4",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_chouette_5",
+            "value": "Aunque seas mudo, puedes hablar con ella gracias a tus tarjetas."
+        },
+        {
+            "key": "card_violette_chouette_6",
+            "value": "¡Que práctica es tu magia!"
+        },
+        {
+            "key": "card_violette_cynorhodon_0",
+            "value": "Bonito, ¿verdad?"
+        },
+        {
+            "key": "card_violette_cynorhodon_1",
+            "value": "Hace mucho..."
+        },
+        {
+            "key": "card_violette_cynorhodon_2",
+            "value": "Se hacía mermelada con ello."
+        },
+        {
+            "key": "card_violette_cynorhodon_3",
+            "value": "Pero no tengo más energía para eso..."
+        },
+        {
+            "key": "card_violette_cynorhodon_4",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_cynorhodon_5",
+            "value": "Y de toda manera no me gusta."
+        },
+        {
+            "key": "card_violette_keystone_0",
+            "value": "No…"
+        },
+        {
+            "key": "card_violette_keystone_1",
+            "value": "No se puede…"
+        },
+        {
+            "key": "card_violette_keystone_2",
+            "value": "No deberías haber visto ese objeto."
+        },
+        {
+            "key": "card_violette_keystone_3",
+            "value": "Cuidé de escondarlo antes de tu llegada."
+        },
+        {
+            "key": "card_violette_keystone_4",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_keystone_5",
+            "value": "Bueno…"
+        },
+        {
+            "key": "card_violette_keystone_6",
+            "value": "Dado que no sabes para qué sirve,"
+        },
+        {
+            "key": "card_violette_keystone_7",
+            "value": "No creo que haya ningún problema."
+        },
+        {
+            "key": "card_violette_loirmort_0",
+            "value": "Pobrecito…"
+        },
+        {
+            "key": "card_violette_loirmort_1",
+            "value": "¿Quién pudo haberle hecho eso?"
+        },
+        {
+            "key": "card_violette_loirmort_2",
+            "value": "Es terrible.."
+        },
+        {
+            "key": "card_violette_loirmort_3",
+            "value": "Lo enterraré al otro lado del río."
+        },
+        {
+            "key": "card_violette_outildejardin_0",
+            "value": "No nos gusta…"
+        },
+        {
+            "key": "card_violette_outildejardin_1",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_outildejardin_2",
+            "value": "No me gusta jardinear."
+        },
+        {
+            "key": "card_violette_outildejardin_3",
+            "value": "Yo…"
+        },
+        {
+            "key": "card_violette_outildejardin_4",
+            "value": "Intenté…"
+        },
+        {
+            "key": "card_violette_outildejardin_5",
+            "value": "Pero no puedo…"
+        },
+        {
+            "key": "card_violette_partir_0",
+            "value": "Exito…"
+        },
+        {
+            "key": "card_violette_statuechouette_0",
+            "value": "¿DÓNDE LA ENCONTRASTE?"
+        },
+        {
+            "key": "card_violette_statuechouette_1",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_statuechouette_2",
+            "value": "Debería haberla quemado..."
+        },
+        {
+            "key": "card_violette_tombe_0",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_tombe_1",
+            "value": "Lo admito..."
+        },
+        {
+            "key": "card_violette_tombe_2",
+            "value": "No te lo he contado todo."
+        },
+        {
+            "key": "card_violette_tombe_3",
+            "value": "Mirá en el cofre."
+        },
+        {
+            "key": "card_violette_tombe_4",
+            "value": "La llave está escondida encima de la chimenea."
+        },
+        {
+            "key": "card_violette_tombe_5",
+            "value": "Solo saltá."
+        },
+        {
+            "key": "card_violette_autretombe_0",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_autretombe_1",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_autretombe_2",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_autretombe_3",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_autretombe_4",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_autretombe_5",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_autretombe_6",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_autretombe_7",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_autretombe_8",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_autretombe_9",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_autretombe_10",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_autretombe_11",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_fantome_0",
+            "value": "¿Una «Forlore»?"
+        },
+        {
+            "key": "card_violette_fantome_1",
+            "value": "Para mí es un fantasma, pero como tu quieras."
+        },
+        {
+            "key": "card_violette_fantome_2",
+            "value": "Se ha instalado en nuestra cava…"
+        },
+        {
+            "key": "card_violette_fantome_3",
+            "value": "Algunas noches se le oye gritar."
+        },
+        {
+            "key": "card_violette_fantome_4",
+            "value": "A veces me parece que me llama..."
+        },
+        {
+            "key": "card_violette_fantome_5",
+            "value": "Y me quita el sueño."
+        },
+        {
+            "key": "card_violette_fantome_6",
+            "value": "Resuélvemelo."
+        },
+        {
+            "key": "card_violette_fantome_7",
+            "value": "¿Es tu trabajo, no?"
+        },
+        {
+            "key": "card_violette_fantome_8",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_fantome_9",
+            "value": "Lo siento, ahora mismo me irrito con facilidad..."
+        },
+        {
+            "key": "card_violette_fantome_10",
+            "value": "No duermo mucho."
+        },
+        {
+            "key": "card_violette_statues_0",
+            "value": "Las hice yo."
+        },
+        {
+            "key": "card_violette_statues_1",
+            "value": "Pero están malditas..."
+        },
+        {
+            "key": "card_violette_statues_2",
+            "value": "Hace unos años,"
+        },
+        {
+            "key": "card_violette_statues_3",
+            "value": "Empezaron a caer solas."
+        },
+        {
+            "key": "card_violette_statues_4",
+            "value": "No me he atrevido a tirarlas."
+        },
+        {
+            "key": "card_violette_statues_5",
+            "value": "Al menos en la cava…"
+        },
+        {
+            "key": "card_violette_statues_6",
+            "value": "No pueden caerse más abajo."
+        },
+        {
+            "key": "card_violette_loir_0",
+            "value": "¡OH!"
+        },
+        {
+            "key": "card_violette_loir_1",
+            "value": "¡Que suerte! me encantan estos bichos."
+        },
+        {
+            "key": "card_violette_loir_2",
+            "value": "No suelen salir de su agujero."
+        },
+        {
+            "key": "card_violette_loir_3",
+            "value": "Creo que hay otro en la cabana."
+        },
+        {
+            "key": "card_violette_loir_4",
+            "value": "He perdido la llave."
+        },
+        {
+            "key": "card_violette_loir_5",
+            "value": "Pero probablemente puedas entrar por el lado."
+        },
+        {
+            "key": "card_violette_loir_6",
+            "value": "Falta una tabla, a la izquierda, detrás de las zarzas."
+        },
+        {
+            "key": "card_violette_troudouteux_0",
+            "value": "Ten cuidado, hay algo viviendo ahí dentro."
+        },
+        {
+            "key": "card_violette_troudouteux_1",
+            "value": "Creo que es un lirón."
+        },
+        {
+            "key": "card_violette_troudouteux_2",
+            "value": "No suelen atacar…"
+        },
+        {
+            "key": "card_violette_troudouteux_3",
+            "value": "Pero, dado tu tamaño, ten cuidado..."
+        },
+        {
+            "key": "card_violette_clef_0",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_clef_1",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_coffre_0",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_coffre_1",
+            "value": "Lavanda…"
+        },
+        {
+            "key": "card_violette_coffre_2",
+            "value": "Ahí guardo mi lavanda..."
+        },
+        {
+            "key": "card_violette_coffre_3",
+            "value": "Para rellenar mis muñecas."
+        },
+        {
+            "key": "card_violette_coffre_4",
+            "value": "Nada que te pueda interesar."
+        },
+        {
+            "key": "card_violette_hache_0",
+            "value": "¿Te gusta la decoración del hogar?"
+        },
+        {
+            "key": "card_violette_hache_1",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_hache_2",
+            "value": "Creo que era mi actividad favorita."
+        },
+        {
+            "key": "card_violette_hache_3",
+            "value": "Nos complementábamos muy bien..."
+        },
+        {
+            "key": "card_violette_hache_4",
+            "value": "La fuerza y la destreza..."
+        },
+        {
+            "key": "card_violette_hache_5",
+            "value": "La voluntad y la inteligencia..."
+        },
+        {
+            "key": "card_violette_hache_6",
+            "value": "Era perfecto."
+        },
+        {
+            "key": "card_violette_lavande_0",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_lavande_1",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_lavande_2",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_poupees_0",
+            "value": "Son bonitas, ¿no?"
+        },
+        {
+            "key": "card_violette_poupees_1",
+            "value": "Son suaves,"
+        },
+        {
+            "key": "card_violette_poupees_2",
+            "value": "Huelen bien,"
+        },
+        {
+            "key": "card_violette_poupees_3",
+            "value": "Y cuando te caen en la cabeza,"
+        },
+        {
+            "key": "card_violette_poupees_4",
+            "value": "No te la rompen."
+        },
+        {
+            "key": "card_violette_poupees_5",
+            "value": "Ya que son blandas."
+        },
+        {
+            "key": "card_violette_vieilledame_0",
+            "value": "«Anciana busca carimara experto para problema de fantasmas»."
+        },
+        {
+            "key": "card_violette_vieilledame_1",
+            "value": "Todo estaba en el anuncio."
+        },
+        {
+            "key": "card_violette_vieilledame_2",
+            "value": "No te sirve saber más…"
+        },
+        {
+            "key": "card_violette_vieilledame_3",
+            "value": "Qué cotilla…"
+        },
+        {
+            "key": "violette_housetable_SomethingElse_0",
+            "value": "¿Algo más?"
+        },
+        {
+            "key": "violette_housetable_HaveQuestion_0",
+            "value": "¿A qué esperas para ir a la cava?"
+        },
+        {
+            "key": "violette_housetable_HaveQuestion_1",
+            "value": "¿Tienes preguntas?"
+        },
+        {
+            "key": "violette_housetable_ChangeAfterIntro_HaveQuestion_0",
+            "value": "..."
+        },
+        {
+            "key": "violette_knitting_NotRelated_0",
+            "value": "¡Ya estás despierto!"
+        },
+        {
+            "key": "violette_knitting_NotRelated_1",
+            "value": "Que alivio, estabas pálido cuando te encontré."
+        },
+        {
+            "key": "violette_knitting_NotRelated_2",
+            "value": "Pero ten cuidado…"
+        },
+        {
+            "key": "violette_knitting_HaveQuestion_0",
+            "value": "¿Una pregunta?"
+        },
+        {
+            "key": "violette_outside_NotRelated_0",
+            "value": "Es agotador..."
+        },
+        {
+            "key": "violette_outside_NotRelated_1",
+            "value": "Pero siempre me ha encantado."
+        },
+        {
+            "key": "violette_outside_NotRelated_2",
+            "value": "Ojalá siga pudiendo cortar troncos hasta el día de mi muerte."
+        },
+        {
+            "key": "violette_outside_NotRelated_3",
+            "value": "Pero primero, una pequeña pausa."
+        },
+        {
+            "key": "violette_outside_HaveQuestion_0",
+            "value": "¿Una pregunta?"
+        },
+        {
+            "key": "violette_cave_0",
+            "value": "Pobrecito…"
+        },
+        {
+            "key": "violette_cave_1",
+            "value": "El fantasma no le hizo ningún favor."
+        },
+        {
+            "key": "violette_cave_2",
+            "value": "Hice bien en seguirlo discretamente."
+        },
+        {
+            "key": "violette_cave_3",
+            "value": "Solo queda volver a montarlo..."
+        },
+        {
+            "key": "violette_secondTime_cave_0",
+            "value": "..."
+        },
+        {
+            "key": "violette_secondTime_cave_1",
+            "value": "Parece que todavía no le sale..."
+        },
+        {
+            "key": "violette_secondTime_cave_2",
+            "value": "Más le vale no irse sin haber resuelto el problema."
+        },
+        {
+            "key": "card_violette_fullmoon_0",
+            "value": "..."
+        },
+        {
+            "key": "card_violette_fullmoon_1",
+            "value": "Ten cuidado."
+        },
+        {
+            "key": "card_violette_fullmoon_2",
+            "value": "Mirar al sol es malo para los ojos."
+        },
+        {
+            "key": "card_violette_fullmoon_3",
+            "value": "Pero mirar a la Luna…"
+        },
+        {
+            "key": "card_violette_fullmoon_4",
+            "value": "Es mucho más traicionero."
+        },
+        {
+            "key": "card_violette_fullmoon_5",
+            "value": "Te vuelve loco de verdad…"
+        },
+        {
+            "key": "card_violette_fullmoon_6",
+            "value": "Aún más allá de la muerte."
+        },
+        {
+            "key": "card_chouette_cabane_0",
+            "value": "¡Huele fatal por ahí!"
+        },
+        {
+            "key": "card_chouette_cabane_1",
+            "value": "Como dice el refrán..."
+        },
+        {
+            "key": "card_chouette_cabane_2",
+            "value": "«Cosechas lo que siembras.»"
+        },
+        {
+            "key": "card_chouette_cabane_3",
+            "value": "O bien…"
+        },
+        {
+            "key": "card_chouette_cabane_4",
+            "value": "«Quien siembra viento, cosecha tempestad.»"
+        },
+        {
+            "key": "card_chouette_cabane_5",
+            "value": "Me encanta ponerme dramática."
+        },
+        {
+            "key": "card_chouette_carimara_0",
+            "value": "Eres bien feo."
+        },
+        {
+            "key": "card_chouette_carimara_1",
+            "value": "Pero te queda bien..."
+        },
+        {
+            "key": "card_chouette_carimara_2",
+            "value": "..."
+        },
+        {
+            "key": "card_chouette_carimara_3",
+            "value": "Nunca he probado un goubelinito como tu…"
+        },
+        {
+            "key": "card_chouette_chouette_0",
+            "value": "Soy guapa, ¿verdad?"
+        },
+        {
+            "key": "card_chouette_chouette_1",
+            "value": "También soy muy inteligente, y muy amable..."
+        },
+        {
+            "key": "card_chouette_chouette_2",
+            "value": "..."
+        },
+        {
+            "key": "card_chouette_chouette_3",
+            "value": "Pues, lo admito..."
+        },
+        {
+            "key": "card_chouette_chouette_4",
+            "value": "De vez en cuando liquido a alguien."
+        },
+        {
+            "key": "card_chouette_chouette_5",
+            "value": "¡Pero a menudo lo merecen!"
+        },
+        {
+            "key": "card_chouette_cynorhodon_0",
+            "value": "¡Escaramujo!"
+        },
+        {
+            "key": "1card_chouette_cynorhodon_1",
+            "value": "¡No lo comas!"
+        },
+        {
+            "key": "card_chouette_cynorhodon_2",
+            "value": "Va a doler, está lleno de pelos punzantes."
+        },
+        {
+            "key": "card_chouette_cynorhodon_3",
+            "value": "A los lirones, en cambio, les encanta."
+        },
+        {
+            "key": "card_chouette_cynorhodon_4",
+            "value": "Esos se comen cualquier cosa que se encuentren..."
+        },
+        {
+            "key": "card_chouette_keystone_0",
+            "value": "¿¡QUÉ!?"
+        },
+        {
+            "key": "1card_chouette_keystone_",
+            "value": "¿Pero cómo que encontraste eso?"
+        },
+        {
+            "key": "card_chouette_keystone_2",
+            "value": "Violeta, qué buena para nada..."
+        },
+        {
+            "key": "card_chouette_keystone_3",
+            "value": "Se supone que debe protegerla."
+        },
+        {
+            "key": "card_chouette_keystone_4",
+            "value": "..."
+        },
+        {
+            "key": "card_chouette_keystone_5",
+            "value": "Parece que confía en ti."
+        },
+        {
+            "key": "card_chouette_keystone_6",
+            "value": "O bien..."
+        },
+        {
+            "key": "card_chouette_keystone_7",
+            "value": "¡Sabe que un inútil como tú no podrá usarlo!"
+        },
+        {
+            "key": "card_chouette_loirmort_0",
+            "value": "..."
+        },
+        {
+            "key": "card_chouette_outildejardin_0",
+            "value": "Antes, el jardín era bonito y estaba bien cuidado..."
+        },
+        {
+            "key": "card_chouette_outildejardin_1",
+            "value": "Ahora es difícil cazar con toda esta maleza."
+        },
+        {
+            "key": "card_chouette_outildejardin_2",
+            "value": "¡No hay nada más que llevarse a la boca!"
+        },
+        {
+            "key": "card_chouette_outildejardin_3",
+            "value": "Qué tristeza..."
+        },
+        {
+            "key": "card_chouette_outildejardin_4",
+            "value": "Me pregunto por qué me quedo por acá…"
+        },
+        {
+            "key": "card_chouette_outildejardin_5",
+            "value": "Misericordia, por supuesto."
+        },
+        {
+            "key": "card_chouette_partir_0",
+            "value": "..."
+        },
+        {
+            "key": "card_chouette_statuechouette_0",
+            "value": "¡Oh! ¡La encontraste!"
+        },
+        {
+            "key": "card_chouette_statuechouette_1",
+            "value": "Aun así..."
+        },
+        {
+            "key": "card_chouette_statuechouette_2",
+            "value": "Violeta no tiene los dedos de frente…"
+        },
+        {
+            "key": "card_chouette_statuechouette_3",
+            "value": "En lugar de buscar un culpable,"
+        },
+        {
+            "key": "card_chouette_statuechouette_4",
+            "value": "Prefería descargar todo su odio sobre esa estatua, ¡como si pudiera ser responsible sola!"
+        },
+        {
+            "key": "card_chouette_statuechouette_5",
+            "value": "¡Siempre me toca a mí hacer el trabajo sucio en esta casa!"
+        },
+        {
+            "key": "card_chouette_tombe_0",
+            "value": "Qué desperdicio..."
+        },
+        {
+            "key": "card_chouette_tombe_1",
+            "value": "Enterrar un hermoso cadáver aún humeante..."
+        },
+        {
+            "key": "card_chouette_tombe_2",
+            "value": "¡Al menos podría haberme dejado sus hermosos ojos!"
+        },
+        {
+            "key": "card_chouette_tombe_3",
+            "value": "..."
+        },
+        {
+            "key": "card_chouette_autretombe_0",
+            "value": "???"
+        },
+        {
+            "key": "card_chouette_autretombe_1",
+            "value": "Estás buscando problemas."
+        },
+        {
+            "key": "card_chouette_fantome_0",
+            "value": "¿Se come?"
+        },
+        {
+            "key": "card_chouette_fantome_1",
+            "value": "Entonces me importa una mierda."
+        },
+        {
+            "key": "card_chouette_statues_0",
+            "value": "¡Ah, las famosas estatuas!"
+        },
+        {
+            "key": "card_chouette_statues_1",
+            "value": "Un trabajo muy bien hecho."
+        },
+        {
+            "key": "card_chouette_statues_2",
+            "value": "Por cierto..."
+        },
+        {
+            "key": "card_chouette_statues_3",
+            "value": "Un día vi a la anciana tirar una así al río."
+        },
+        {
+            "key": "card_chouette_statues_4",
+            "value": "¡Gritaba como una cerda a la que degüellan!"
+        },
+        {
+            "key": "card_chouette_statues_5",
+            "value": "No era agradable de ver, pobrecita..."
+        },
+        {
+            "key": "card_chouette_loir_0",
+            "value": "¿UN LIRÓN?"
+        },
+        {
+            "key": "card_chouette_loir_1",
+            "value": "Sentía que quedaba uno en aquella vieja cabaña..."
+        },
+        {
+            "key": "card_chouette_loir_2",
+            "value": "¡Son PARÁSITOS!"
+        },
+        {
+            "key": "card_chouette_loir_3",
+            "value": "Viven ocultos en las sombras..."
+        },
+        {
+            "key": "card_chouette_loir_4",
+            "value": "Y en cuanto le das la espalda..."
+        },
+        {
+            "key": "card_chouette_loir_5",
+            "value": "¡Te hacen «BROMAS»!"
+        },
+        {
+            "key": "card_chouette_loir_6",
+            "value": "Te roban cosas,"
+        },
+        {
+            "key": "card_chouette_loir_7",
+            "value": "Hacen un desorden en tu casa,"
+        },
+        {
+            "key": "card_chouette_loir_8",
+            "value": "¡Y te tiran todo lo que tienen a mano!"
+        },
+        {
+            "key": "card_chouette_loir_9",
+            "value": "..."
+        },
+        {
+            "key": "card_chouette_loir_10",
+            "value": "Al principio es divertido..."
+        },
+        {
+            "key": "card_chouette_loir_11",
+            "value": "Al final solo quieres matarlos a todos."
+        },
+        {
+            "key": "card_chouette_troudouteux_0",
+            "value": "¿Me vas a enseñar todos los rincones de la casa?"
+        },
+        {
+            "key": "card_chouette_troudouteux_1",
+            "value": "¡Lárgate con tu hoyo!"
+        },
+        {
+            "key": "card_chouette_clef_0",
+            "value": "Oooooh... Bravo..."
+        },
+        {
+            "key": "card_chouette_clef_1",
+            "value": "Veo que has descubierto cómo abrir el cofre..."
+        },
+        {
+            "key": "card_chouette_clef_2",
+            "value": "¡Qué listo!"
+        },
+        {
+            "key": "card_chouette_clef_3",
+            "value": "¡Me impresionas!"
+        },
+        {
+            "key": "card_chouette_clef_4",
+            "value": "¿Quieres una medalla?"
+        },
+        {
+            "key": "card_chouette_clef_5",
+            "value": "..."
+        },
+        {
+            "key": "card_chouette_clef_6",
+            "value": "¿Pensabas que ese era el único secreto de este lugar?"
+        },
+        {
+            "key": "card_chouette_clef_7",
+            "value": "Qué adorable…"
+        },
+        {
+            "key": "card_chouette_coffre_0",
+            "value": "A la anciana parece encantarle."
+        },
+        {
+            "key": "card_chouette_coffre_1",
+            "value": "Casi nunca lo abre…"
+        },
+        {
+            "key": "card_chouette_coffre_2",
+            "value": "Seguro que esconde algo muy valioso ahí."
+        },
+        {
+            "key": "card_chouette_coffre_3",
+            "value": "Un buen trozo de carne, supongo..."
+        },
+        {
+            "key": "card_chouette_hache_0",
+            "value": "¡Es el arma favorita de Violeta!"
+        },
+        {
+            "key": "card_chouette_hache_1",
+            "value": "No lo parece pero…"
+        },
+        {
+            "key": "card_chouette_hache_2",
+            "value": "Esas dos eran las mejores guerreras de la región."
+        },
+        {
+            "key": "card_chouette_hache_3",
+            "value": "Tenían muchos enemigos..."
+        },
+        {
+            "key": "card_chouette_hache_4",
+            "value": "¡Pero nadie les llegaba ni a la suela de los zapatos!"
+        },
+        {
+            "key": "card_chouette_hache_5",
+            "value": "..."
+        },
+        {
+            "key": "card_chouette_hache_6",
+            "value": "¡Y todo eso para morir de una manera tan estúpida!"
+        },
+        {
+            "key": "card_chouette_hache_7",
+            "value": "¡Me enojo solo de pensarlo!"
+        },
+        {
+            "key": "card_chouette_lavande_0",
+            "value": "¡Oh! ¡La otra mujer!"
+        },
+        {
+            "key": "card_chouette_lavande_1",
+            "value": "Al menos ella cuidaba bien de mí."
+        },
+        {
+            "key": "card_chouette_lavande_2",
+            "value": "A diferencia de esa demente de Violeta."
+        },
+        {
+            "key": "card_chouette_lavande_3",
+            "value": "..."
+        },
+        {
+            "key": "card_chouette_lavande_4",
+            "value": "Estaban como uña y mugre las dos."
+        },
+        {
+            "key": "card_chouette_lavande_5",
+            "value": "Extraño mucho esa época."
+        },
+        {
+            "key": "card_chouette_poupees_0",
+            "value": "¡Una vez probé a comer una!"
+        },
+        {
+            "key": "card_chouette_poupees_1",
+            "value": "Era repugnante, había flores dentro."
+        },
+        {
+            "key": "card_chouette_poupees_2",
+            "value": "Es el nuevo hobby de Violeta."
+        },
+        {
+            "key": "card_chouette_poupees_3",
+            "value": "Ha dejado completamente la escultura..."
+        },
+        {
+            "key": "card_chouette_poupees_4",
+            "value": "Es una locura ser tan supersticiosa."
+        },
+        {
+            "key": "card_chouette_poupees_5",
+            "value": "Se está volviendo loca, la vieja."
+        },
+        {
+            "key": "card_chouette_vieilledame_0",
+            "value": "¿Violeta?"
+        },
+        {
+            "key": "card_chouette_vieilledame_1",
+            "value": "Lleva viviendo aquí desde siempre."
+        },
+        {
+            "key": "card_chouette_vieilledame_2",
+            "value": "Pero hace unos años, se quedó sola..."
+        },
+        {
+            "key": "card_chouette_vieilledame_3",
+            "value": "¡Y desde entonces nada va!"
+        },
+        {
+            "key": "card_chouette_vieilledame_4",
+            "value": "¡Ya no me da nada de comer!"
+        },
+        {
+            "key": "card_chouette_vieilledame_5",
+            "value": "Espero a que muera para comerme su cadáver."
+        },
+        {
+            "key": "owl_barrier_SomethingElse_0",
+            "value": "..."
+        },
+        {
+            "key": "owl_barrier_HaveQuestion_0",
+            "value": "?"
+        },
+        {
+            "key": "owl_barrier_NotRelated_0",
+            "value": "ME VOY A COMER TUS TRIPAS."
+        },
+        {
+            "key": "owl_barrier_NotRelated_1",
+            "value": "..."
+        },
+        {
+            "key": "owl_barrier_NotRelated_2",
+            "value": "¡Era una broma, no te pongas tan nervioso!"
+        },
+        {
+            "key": "owl_barrier_NotRelated_3",
+            "value": "¿Qué quieres, estúpido?"
+        },
+        {
+            "key": "owl_door_NotRelated_0",
+            "value": "Espero a que esa egoísta deje de mirarme para ir a robarle comida."
+        },
+        {
+            "key": "owl_door_NotRelated_1",
+            "value": "Más te vale no arruinarlo todo, imbécil."
+        },
+        {
+            "key": "owl_backgarden_NotRelated_0",
+            "value": "¿Sigues ahí?"
+        },
+        {
+            "key": "owl_backgarden_NotRelated_1",
+            "value": "¿Planeas mudarte aquí?"
+        },
+        {
+            "key": "card_chouette_fullmoon_0",
+            "value": "Vaya..."
+        },
+        {
+            "key": "card_chouette_fullmoon_1",
+            "value": "¿Ahora te interesa la Luna?"
+        },
+        {
+            "key": "card_chouette_fullmoon_2",
+            "value": "Otra gran idea más."
+        },
+        {
+            "key": "card_chouette_fullmoon_3",
+            "value": "Dejalo o te mataré con los cuernos que me quedan, como al otro imbécil."
+        },
+        {
+            "key": "loir_firstTexts_0",
+            "value": "HIHIHI"
+        },
+        {
+            "key": "loir_firstTexts_1",
+            "value": "¡¡ESCARAMUJO!!"
+        },
+        {
+            "key": "loir_firstTexts_2",
+            "value": "¡OLÍ ESCARAMUJO!"
+        },
+        {
+            "key": "loir_firstTexts_3",
+            "value": "JAJA"
+        },
+        {
+            "key": "loir_firstTexts_4",
+            "value": "JAJAJAJAJAJA"
+        },
+        {
+            "key": "loir_secondTexts_0",
+            "value": "SOY ALGO TÍMIDO..."
+        },
+        {
+            "key": "loir_secondTexts_1",
+            "value": "¡MI PAPÁ ME DIJO QUE NUNCA HABLARA CON DESCONOCIDOS!"
+        },
+        {
+            "key": "loir_secondTexts_2",
+            "value": "¡SOBRE TODO LOS METICHES DE MIERDA COMO TÚ!"
+        },
+        {
+            "key": "loir_secondTexts_3",
+            "value": "..."
+        },
+        {
+            "key": "loir_secondTexts_4",
+            "value": "LÁSTIMA QUE YA NO ESTÉ AQUÍ PARA CONTARLO."
+        },
+        {
+            "key": "loir_secondTexts_5",
+            "value": "SI ME LO ENCUENTRO AL QUE LO MATÓ..."
+        },
+        {
+            "key": "loir_secondTexts_6",
+            "value": "TE LO JURO QUE LE PARTO LA CARA CON UN TRONCO."
+        },
+        {
+            "key": "finalwin_lavande_reveal_0",
+            "value": "Pequeño ser..."
+        },
+        {
+            "key": "finalwin_lavande_reveal_1",
+            "value": "Perdóneme si fui dura con usted."
+        },
+        {
+            "key": "finalwin_lavande_reveal_2",
+            "value": "No era yo misma."
+        },
+        {
+            "key": "finalwin_lavande_reveal_3",
+            "value": "Gracias a usted ahora..."
+        },
+        {
+            "key": "finalwin_lavande_reveal_4",
+            "value": "Estoy en paz."
+        },
+        {
+            "key": "finalwin_lavande_closeup_0",
+            "value": "Creo que tiene razón..."
+        },
+        {
+            "key": "finalwin_lavande_closeup_1",
+            "value": "Mis recuerdos son confusos, pero..."
+        },
+        {
+            "key": "finalwin_lavande_closeup_2",
+            "value": "Soy Lavanda."
+        },
+        {
+            "key": "finalwin_lavande_closeup_3",
+            "value": "Murió hace unos años."
+        },
+        {
+            "key": "finalwin_lavande_closeup_4",
+            "value": "Un lirón me tiró una estatua en la cabeza..."
+        },
+        {
+            "key": "finalwin_lavande_closeup_5",
+            "value": "Qué destino tan trágico..."
+        },
+        {
+            "key": "finalwin_violette_reveal_0",
+            "value": "¿Lavanda?"
+        },
+        {
+            "key": "finalwin_violette_reveal_1",
+            "value": "¿Tu eres, Lavanda?"
+        },
+        {
+            "key": "finalwin_violette_reveal_2",
+            "value": "¿Cómo puede ser?"
+        },
+        {
+            "key": "finalwin_violette_reveal_3",
+            "value": "Yo.."
+        },
+        {
+            "key": "finalwin_violette_reveal_4",
+            "value": "Creía que nunca jamás volvería a verte..."
+        },
+        {
+            "key": "finalwin_violette_closeup_0",
+            "value": "No pude cuidar el jardín..."
+        },
+        {
+            "key": "finalwin_violette_closeup_1",
+            "value": "Sin ti está en muy mal estado."
+        },
+        {
+            "key": "finalwin_violette_closeup_2",
+            "value": "Y además..."
+        },
+        {
+            "key": "finalwin_violette_closeup_3",
+            "value": "Todo el pueblo cree que te maté."
+        },
+        {
+            "key": "finalwin_violette_closeup_4",
+            "value": "¿Cómo podría hacer algo así?"
+        },
+        {
+            "key": "finalwin_violette_closeup_5",
+            "value": "Ahora solo la lechuza soporta mi compañía...."
+        },
+        {
+            "key": "finalwin_violette_closeup_6",
+            "value": "..."
+        },
+        {
+            "key": "finalwin_violette_closeup_7",
+            "value": "Te echo tanto de menos, mi amor..."
+        },
+        {
+            "key": "finalwin_lavande_blacktransition_0",
+            "value": "Violeta…"
+        },
+        {
+            "key": "finalwin_lavande_blacktransition_1",
+            "value": "No te preocupes."
+        },
+        {
+            "key": "finalwin_lavande_blacktransition_2",
+            "value": "Gracias a este pequeño Carimara,"
+        },
+        {
+            "key": "finalwin_lavande_blacktransition_3",
+            "value": "Esta pesadilla se acabó."
+        },
+        {
+            "key": "finalwin_lavande_beforekiss_0",
+            "value": "Eres perfecta."
+        },
+        {
+            "key": "finalwin_lavande_beforekiss_1",
+            "value": "Ahora estoy contigo."
+        },
+        {
+            "key": "finalwin_lavande_beforekiss_2",
+            "value": "Y te perseguiré para siempre."
+        },
+        {
+            "key": "ghost_questions_0",
+            "value": "¿Quién era yo?"
+        },
+        {
+            "key": "ghost_questions_1",
+            "value": "¿Quién me mató?"
+        },
+        {
+            "key": "ghost_questions_2",
+            "value": "¿Qué me mató?"
+        },
+        {
+            "key": "ghost_intro1_0",
+            "value": "Pequeño ser..."
+        },
+        {
+            "key": "ghost_intro1_1",
+            "value": "¿Me... me entiende?"
+        },
+        {
+            "key": "ghost_intro1_2",
+            "value": "Yo…"
+        },
+        {
+            "key": "ghost_intro1_3",
+            "value": "No sé por qué estoy aquí…"
+        },
+        {
+            "key": "ghost_intro1_4",
+            "value": "Quien…"
+        },
+        {
+            "key": "ghost_intro1_5",
+            "value": "¿Quién era yo?"
+        },
+        {
+            "key": "ghost_intro2_0",
+            "value": "¡Usted otra vez!"
+        },
+        {
+            "key": "ghost_intro2_1",
+            "value": "¿Ha pensado en mis preguntas?"
+        },
+        {
+            "key": "ghost_intro2_2",
+            "value": "Esta vez no se equivoque…"
+        },
+        {
+            "key": "ghost_intro2_3",
+            "value": "Entonces…"
+        },
+        {
+            "key": "ghost_intro2_4",
+            "value": "¿Quién era yo?"
+        },
+        {
+            "key": "ghost_badending1_0",
+            "value": "¿Se está burlando de mí?"
+        },
+        {
+            "key": "ghost_badending1_1",
+            "value": "Fuera de acá."
+        },
+        {
+            "key": "ghost_badending2_0",
+            "value": "No parece muy seguro..."
+        },
+        {
+            "key": "ghost_badending2_1",
+            "value": "¿Está seguro de que tiene toda la información necesaria?"
+        },
+        {
+            "key": "ghost_badending2_2",
+            "value": "Vuelve cuando tengas una teoría sólida."
+        },
+        {
+            "key": "ghost_badending3_0",
+            "value": "Qué amable por volver a verme cada vez..."
+        },
+        {
+            "key": "ghost_badending3_1",
+            "value": "Empiezo a creer en usted."
+        },
+        {
+            "key": "ghost_badending3_2",
+            "value": "Hasta pronto, espero."
+        },
+        {
+            "key": "ghost_badending4_0",
+            "value": "¿Intentó retomar su reflexión desde el inicio?"
+        },
+        {
+            "key": "ghost_badending4_1",
+            "value": "Sin descuidar nada, con una nueva perspectiva."
+        },
+        {
+            "key": "ghost_badending4_2",
+            "value": "A veces…"
+        },
+        {
+            "key": "ghost_badending4_3",
+            "value": "Lo que parece insignificante a primera vista..."
+        },
+        {
+            "key": "ghost_badending4_4",
+            "value": "Revela mucho."
+        },
+        {
+            "key": "ghost_almostgood_0",
+            "value": "..."
+        },
+        {
+            "key": "ghost_almostgood_1",
+            "value": "Yo creo…"
+        },
+        {
+            "key": "ghost_almostgood_2",
+            "value": "Creo que tienes razón."
+        },
+        {
+            "key": "ghost_almostgood_3",
+            "value": "..."
+        },
+        {
+            "key": "ghost_almostgood_4",
+            "value": "Espere.."
+        },
+        {
+            "key": "ghost_almostgood_5",
+            "value": "Algo no cuadra."
+        },
+        {
+            "key": "ghost_almostgood_6",
+            "value": "Parece que tienes razón... salvo por un detallito…"
+        },
+        {
+            "key": "ghost_almostgood_7",
+            "value": "Ya casi lo tienes, cuento con usted."
+        },
+        {
+            "key": "ghost_loirmortstory_0",
+            "value": "..."
+        },
+        {
+            "key": "ghost_loirmortstory_1",
+            "value": "¿De verdad cree que un lirón hablaría como yo?"
+        },
+        {
+            "key": "ghost_loirmortstory_2",
+            "value": "Los lirones no son bastante poderosos para volver así a este mundo."
+        },
+        {
+            "key": "ghost_loirmortstory_3",
+            "value": "Sin embargo, si Viola realmente mató a uno..."
+        },
+        {
+            "key": "ghost_loirmortstory_4",
+            "value": "Es que lo merecía de una forma u otra"
+        },
+        {
+            "key": "ghost_loirmortstory_5",
+            "value": "..."
+        },
+        {
+            "key": "ghost_loirmortstory_6",
+            "value": "Creo que me están volviendo algunos recuerdos…"
+        },
+        {
+            "key": "ghost_loirmortstory_7",
+            "value": "Continúe, por favor."
+        },
+        {
+            "key": "ghost_partir_0",
+            "value": "..."
+        },
+        {
+            "key": "ghost_moon_0",
+            "value": "..."
+        },
+        {
+            "key": "ghost_moon_1",
+            "value": "¿La Luna?"
+        },
+        {
+            "key": "ghost_moon_2",
+            "value": "..."
+        },
+        {
+            "key": "ghost_moon_3",
+            "value": "¿Por qué me habla de la Luna?"
+        },
+        {
+            "key": "ghost_moon_4",
+            "value": "¿Qué tiene que ver la Luna conmigo?"
+        },
+        {
+            "key": "ghost_moon_5",
+            "value": "Deje de pensar en la Luna."
+        },
+        {
+            "key": "ghost_fullmoon_0",
+            "value": "¡CÁLLESE!"
+        },
+        {
+            "key": "ghost_fullmoon_1",
+            "value": "..."
+        },
+        {
+            "key": "ghost_fullmoon_2",
+            "value": "¿Por qué le obsesiona tanto la Luna?"
+        },
+        {
+            "key": "ghost_fullmoon_3",
+            "value": "Tiene que dejarlo."
+        },
+        {
+            "key": "ghost_fullmoon_4",
+            "value": "Casi no recuerdo nada,"
+        },
+        {
+            "key": "ghost_fullmoon_5",
+            "value": "pero hay algo que permanece muy claro en mi memoria:"
+        },
+        {
+            "key": "ghost_fullmoon_6",
+            "value": "«La enviada de Leunia no debe volver a ver la luz»"
+        },
+        {
+            "key": "ghost_fullmoon_7",
+            "value": "..."
+        },
+        {
+            "key": "ghost_fullmoon_8",
+            "value": "No piense más en la Luna."
+        },
+        {
+            "key": "ghost_violette_0",
+            "value": "¿Una anciana?"
+        },
+        {
+            "key": "ghost_violette_1",
+            "value": "No me diga que esta hablando de Violeta."
+        },
+        {
+            "key": "ghost_violette_2",
+            "value": "¿De verdad cree que Violeta podría haber hecho eso?"
+        },
+        {
+            "key": "ghost_violette_3",
+            "value": "Qué idea tan extraña..."
+        },
+        {
+            "key": "ghost_violette_4",
+            "value": "Seguramente no estamos hablando de la misma Violeta."
+        },
+        {
+            "key": "firstcinematic_0",
+            "value": "Érase una vez…"
+        },
+        {
+            "key": "firstcinematic_1",
+            "value": "En la penumbra de un bosque perdido..."
+        },
+        {
+            "key": "credits_part2_credits",
+            "value": "CRÉDITOS"
+        },
+        {
+            "key": "credits_part2_font",
+            "value": "Tipo de letra: NotJam"
+        },
+        {
+            "key": "credits_part2_pixel",
+            "value": "Efecto pixel: QuickDither por OoseyKins"
+        },
+        {
+            "key": "credits_part2_dave",
+            "value": "Implementación del sistema de localización: Dave van Egdom (Wrong Organ)"
+        },
+        {
+            "key": "credits_part2_benjam",
+            "value": "Efectos sonores para la escena final principal, los momentos en los que te noquean el lirón y el Forlore, la atmósfera en la cava y los sonidos de centelleo: Benjamin Macé (Pepperjam)."
+        },
+        {
+            "key": "credits_part2_baldmount",
+            "value": "Música de los créditos:<br>Modest Mussorgsky,<br>Une nuit sur le mont chauve"
+        },
+        {
+            "key": "credits_part2_podcast",
+            "value": "Podcasts muy chéveres que me acompañaban mientras hacía el juego: Silence on Joue, La Playade, Fin du Game"
+        },
+        {
+            "key": "credits_part2_patatos",
+            "value": "(Gracias por tus comentarios, PatatOS)"
+        },
+        {
+            "key": "credits_part2_julia",
+            "value": "Ayuda para la traducción al inglés: Julialalart"
+        },
+        {
+            "key": "credits_part2_encorejulia",
+            "value": "Ayuda para levantarme por la mañana y dejar de trabajar por la noche: Julialalart, otra vez"
+        },
+        {
+            "key": "credits_part2_thob",
+            "value": "Ayuda para algunos efectos especiales y shaders: Thob"
+        },
+        {
+            "key": "credits_part2_encorethob",
+            "value": "Aullido de Lunaria: Thob, otra vez"
+        },
+        {
+            "key": "credits_part2_blukulele",
+            "value": "Ayuda para las conversaciones sobre copas: Blukulélé"
+        },
+        {
+            "key": "credits_part2_encoreblukulele",
+            "value": "Ayuda para usar cosas complicadas como Git y Steam: Blukulélé, otra vez"
+        },
+        {
+            "key": "credits_part2_friends",
+            "value": "Mi familia y mis amigos por los playtests y el apoyo"
+        },
+        {
+            "key": "credits_part2_maman",
+            "value": "Gracias a mi madre por las fotos que tomé en su jardín y que sirvieron de inspiración para muchas de las plantas del juego"
+        },
+        {
+            "key": "credits_part2_papa",
+            "value": "Gracias a mi padre por la foto de su mano, que sirvió para hacer la piel de los sapos y de los personajes"
+        },
+        {
+            "key": "credits_part2_critical",
+            "value": "¡¡Muchísimas gracias a CRITICAL REFLEX por confiar en mí y en mi juego!!"
+        },
+        {
+            "key": "credits_part1_11",
+            "value": "¡Gracias por jugar a CARIMARA y llegar hasta el final!"
+        },
+        {
+            "key": "credits_part1_12",
+            "value": "He puesto mucho amor en este juego y me ha encantado dedicar tiempo a cada detalle y secreto"
+        },
+        {
+            "key": "credits_part2_benoit",
+            "value": "Descubrí el folclore normando gracias al blog de Benoît Rêveur, que me enseñó la existencia de los brujos carimaras, los goublins, las forlores y las milloraines... Me inspiró mucho."
+        },
+        {
+            "key": "credits_part1_14",
+            "value": "¡Me gustaría hacer más episodios cortos si este tiene suficiente éxito! No duden en seguirme para descubrir mis próximos proyectos."
+        },
+        {
+            "key": "credits_part1_15",
+            "value": "Si han visto el juego en streaming o en vídeo y les ha gustado, no duden en comprarlo para apoyar al equipo, ¡cuesta lo mismo que un buen bocadillo!"
+        },
+        {
+            "key": "credits_part1_16",
+            "value": "¡Hasta pronto, cuídense mucho!"
+        },
+        {
+            "key": "tutorial_0",
+            "value": "RECOGIDA DE CARTAS"
+        },
+        {
+            "key": "tutorial_1",
+            "value": "ÚSELAS EN LOS PERSONAJES"
+        },
+        {
+            "key": "tutorial_2",
+            "value": "CAMINE Y EXPLORE"
+        },
+        {
+            "key": "menu_0",
+            "value": "AJUSTES"
+        },
+        {
+            "key": "menu_1",
+            "value": "JUGAR"
+        },
+        {
+            "key": "menu_2",
+            "value": "CRÉDITOS"
+        },
+        {
+            "key": "menu_3",
+            "value": "SALIR"
+        },
+        {
+            "key": "menu_settings_menuSpecific1",
+            "value": "Borrar la copia de seguridad"
+        },
+        {
+            "key": "menu_settings_menuSpecific2",
+            "value": "Borrar los logros de Steam"
+        },
+        {
+            "key": "menu_settings_menuSpecific3",
+            "value": "EMPEZAR"
+        },
+        {
+            "key": "settings_btn_bugreport",
+            "value": "¡TENGO UN BUG!"
+        },
+        {
+            "key": "settings_toquit",
+            "value": "Para salir:<br><size=16>Mantener pulsada la tecla ESC por cuatro segundos"
+        },
+        {
+            "key": "settings_controls1",
+            "value": "<color=white>CAMINAR : <color=purple>ZQSD<color=white>,<color=purple> WASD<color=white><color=white> o <color=purple>FLECHAS<color=white><br>"
+        },
+        {
+            "key": "settings_controls2",
+            "value": "SALTAR : <color=purple>ESPACIO<color=white> <color=white>or<color=purple> CLIC DERECHO<color=white><br>"
+        },
+        {
+            "key": "settings_controls3",
+            "value": "INTERACTUAR: <color=purple>CLIC IZQUIERDO<color=white><br>"
+        },
+        {
+            "key": "settings_controls4",
+            "value": "OBSERVAR: <color=purple>MOUSE"
+        },
+        {
+            "key": "settings_cameraSensi",
+            "value": "SENSIBILIDAD CÁM"
+        },
+        {
+            "key": "settings_soundVolume",
+            "value": "VOLUMEN DEL SONIDO"
+        },
+        {
+            "key": "settings_btn_resume",
+            "value": "CONTINUAR"
+        },
+        {
+            "key": "settings_btn_titlescreen",
+            "value": "PANTALLA DE TÍTULO"
+        },
+        {
+            "key": "settings_btn_reload",
+            "value": "RECARGAR"
+        },
+        {
+            "key": "settings_language_english",
+            "value": "INGLÉS"
+        },
+        {
+            "key": "settings_language_french",
+            "value": "FRANCÉS"
+        },
+        {
+            "key": "carimara_title",
+            "value": "MURMURIOS DE RAMAS ENTERRADAS"
+        },
+        {
+            "key": "settings_middlepoint",
+            "value": "VISOR"
+        },
+        {
+            "key": "credits_demo_0",
+            "value": "¡Muchas gracias por probar CARIMARA!"
+        },
+        {
+            "key": "credits_demo_1",
+            "value": "Espero que les haya gustado este pequeño extracto del juego."
+        },
+        {
+            "key": "credits_demo_2",
+            "value": "¡¡Añádelo a su lista de deseados, por favor!!"
+        },
+        {
+            "key": "credits_demo_4",
+            "value": "¡Espero que tengan un buen día!"
+        },
+        {
+            "key": "menu_wishlist",
+            "value": "LISTA DE DESEADOS STEAM:"
+        },
+        {
+            "key": "path_secret_demo",
+            "value": "CAMINO SECRETO<br><size=4>(Bloqueado para la demo)"
+        },
+        {
+            "key": "notsupposed_demo",
+            "value": "¡AH!<br><size=4>(No deberías estar aquí durante la demo ^^)"
+        },
+        {
+            "key": "smagic_title",
+            "value": "MODO<br><size=34>MAGIA PROHIBIDA"
+        },
+        {
+            "key": "smagic_panel",
+            "value": "MAGIA PROHIBIA"
+        },
+        {
+            "key": "smagic_cheats",
+            "value": "<color=white>SALTAR EN EL TIEMPO : <color=purple>N<br><color=white>DESPEJAR LA VISTA : <color=purple>H<br><br><color=white>SALTAR EN EL ESPACIO<br><color=white>Hacia el FANTASMA : <color=purple>G<br><color=white>Hacia los TÚNELES : <color=purple>T<br><color=white>Hacia la CASA : <color=purple>P<br><color=white>Hacia el EXTERIOR : <color=purple>O"
+        },
+        {
+            "key": "letter_0",
+            "value": "Lavanda, Violeta"
+        },
+        {
+            "key": "letter_1",
+            "value": "Nunca el tiempo ha podido erosionar,"
+        },
+        {
+            "key": "letter_2",
+            "value": "ni sus armas, ni su amor."
+        },
+        {
+            "key": "letter_3",
+            "value": "Que, a pesar de este merecido descanso, nunca se olviden..."
+        },
+        {
+            "key": "letter_4",
+            "value": "El sentido de su presencia aquí."
+        },
+        {
+            "key": "letter_5",
+            "value": "Esta catedral está enterrada por una razón."
+        },
+        {
+            "key": "letter_6",
+            "value": "La enviada de Leunia jamás debe volver a ver la luz."
+        },
+        {
+            "key": "letter_7",
+            "value": "Recuérdenlo siempre."
+        },
+        {
+            "key": "locacreds",
+            "value": "LOCALIZACIÓN"
+        },
+        {
+            "key": "violetsecretpath_0",
+            "value": "Déjelo..."
+        },
+        {
+            "key": "violetsecretpath_1",
+            "value": "Tu papel no está aquí."
+        },
+        {
+            "key": "violetsecretpath_2",
+            "value": "Solo fue una pesadilla."
+        },
+        {
+            "key": "violetsecretpath_3",
+            "value": "Duérmete, todo está bien..."
+        },
+        {
+            "key": "sleep",
+            "value": "DORMIR"
+        },
+        {
+            "key": "thedeer_0",
+            "value": "¿Dónde se fueron?"
+        },
+        {
+            "key": "thedeer_1",
+            "value": "Digame, te escucho."
+        },
+        {
+            "key": "thedeer_2",
+            "value": "..."
+        },
+        {
+            "key": "thedeer_notused_3",
+            "value": "Mis preciadas flores..."
+        },
+        {
+            "key": "thedeer_4",
+            "value": "Puedo sentir su angustia."
+        },
+        {
+            "key": "thedeer_5",
+            "value": "Una se marchita,"
+        },
+        {
+            "key": "thedeer_6",
+            "value": "otra ya ha muerto,"
+        },
+        {
+            "key": "thedeer_7",
+            "value": "y la última se deja envenenar."
+        },
+        {
+            "key": "thedeer_8",
+            "value": "Hace años que la primavera se queda dormida..."
+        },
+        {
+            "key": "thedeer_9",
+            "value": "Las raíces se esconden, esperando que vuelvan los días soleados..."
+        },
+        {
+            "key": "thedeer_10",
+            "value": "Pero la savia se ha secado hace mucho."
+        },
+        {
+            "key": "thedeer_11",
+            "value": "Se acabó, ya no hay nada que hacer."
+        },
+        {
+            "key": "thedeer_12",
+            "value": "Entonces, ¿por qué sigue pareciendo tan esperanzado?"
+        },
+        {
+            "key": "thedeer_13",
+            "value": "..."
+        },
+        {
+            "key": "thedeer_14",
+            "value": "Entiendo."
+        },
+        {
+            "key": "thedeer_15",
+            "value": "Es de los que saben burlarse de las reglas de la vida."
+        },
+        {
+            "key": "thedeer_16",
+            "value": "De los que no aceptan que las cosas sean como son."
+        },
+        {
+            "key": "thedeer_17",
+            "value": "Si es así, adiós...."
+        },
+        {
+            "key": "thedeer_18",
+            "value": "..."
+        },
+        {
+            "key": "thedeer_19",
+            "value": "El ramo parece un bodegón."
+        },
+        {
+            "key": "toadbringreturn_0",
+            "value": "DEVUELVANOSLA..."
+        },
+        {
+            "key": "toadbringreturn_1",
+            "value": "TIENE QUE VOLVER..."
+        },
+        {
+            "key": "toadhelpneeded_0",
+            "value": "AYUDENOS POR FAVOR..."
+        },
+        {
+            "key": "toadamongus_0",
+            "value": "NO DEBE QUEDARSE AQUÍ SOLA..."
+        },
+        {
+            "key": "toadamongus_1",
+            "value": "SU LUGAR ESTÁ ENTRE NOSOTROS..."
+        },
+        {
+            "key": "toadmissher_0",
+            "value": "LA ECHAMOS TANTO DE MENOS..."
+        },
+        {
+            "key": "toadhelpneeded_1",
+            "value": "TE NECESITAMOS..."
+        },
+        {
+            "key": "toadlookather_0",
+            "value": "QUEREMOS VERLA DE NUEVO..."
+        },
+        {
+            "key": "toadlookather_1",
+            "value": "SÍ, VERLA..."
+        },
+        {
+            "key": "toadlookather_2",
+            "value": "UNA ÚLTIMA VEZ."
+        },
+        {
+            "key": "violet_chocked_0",
+            "value": "¡Espera!"
+        },
+        {
+            "key": "violet_chocked_1",
+            "value": "Tonto..."
+        },
+        {
+            "key": "violet_chocked_2",
+            "value": "¿Qué hiciste?"
+        },
+        {
+            "key": "violet_chocked_3",
+            "value": "¿Tiene idea de lo grave que es lo que ha hecho?"
+        },
+        {
+            "key": "violet_standingthere_0",
+            "value": "Debería haberlo sospechado..."
+        },
+        {
+            "key": "violet_standingthere_1",
+            "value": "Este día tenía que llegar tarde o temprano..."
+        },
+        {
+            "key": "violet_standingthere_2",
+            "value": "..."
+        },
+        {
+            "key": "violet_cathedralcloseup_0",
+            "value": "Lavanda,"
+        },
+        {
+            "key": "violet_cathedralcloseup_1",
+            "value": "Al final nos reuniremos antes de lo esperado..."
+        },
+        {
+            "key": "violet_cathedralcloseup_2",
+            "value": "Ojalá aún estuvieras aquí."
+        },
+        {
+            "key": "violet_cathedralcloseup_3",
+            "value": "Quizás las dos juntas,"
+        },
+        {
+            "key": "violet_cathedralcloseup_4",
+            "value": "como antes..."
+        },
+        {
+            "key": "violet_cathedralcloseup_5",
+            "value": "¿Podríamos haberla contenido?"
+        },
+        {
+            "key": "violet_cathedralcloseup_6",
+            "value": "..."
+        },
+        {
+            "key": "violet_cathedralcloseup_7",
+            "value": "Hasta el final..."
+        },
+        {
+            "key": "violet_cathedralcloseup_8",
+            "value": "Habría fracasado."
+        },
+        {
+            "key": "violet_threedots",
+            "value": "..."
+        },
+        {
+            "key": "violet_lunarendingfree_0",
+            "value": "Es libre."
+        },
+        {
+            "key": "violet_lunarendingleunia_0",
+            "value": "La enviada de Leunia."
+        },
+        {
+            "key": "violet_lunarendingtaranne_0",
+            "value": "Asesina de la Taranne."
+        },
+        {
+            "key": "violet_lunarendingexhume_0",
+            "value": "Exhumada de la cripta de las Ramas enterradas..."
+        },
+        {
+            "key": "violet_lunarendingdots_0",
+            "value": "..."
+        },
+        {
+            "key": "violet_lunarendinglunaria_0",
+            "value": "Lunaria"
+        }
+    ]
+}
