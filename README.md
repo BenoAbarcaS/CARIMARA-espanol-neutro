@@ -16,3 +16,4 @@ Esta es una traducción **NO oficial** y **NO automática** para el juego *CARIM
 
 ## Instalación
 
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3679419414">GUÍA</a>
